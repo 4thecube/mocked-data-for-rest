@@ -14,7 +14,7 @@ const items = [
     author: {
       firstName: "John",
       lastName: "Everick",
-      picture: `http:localhost:4200/user2.jpg`,
+      picture: `https://json-mock-data.herokuapp.com/user2.jpg`,
     },
   },
   {
@@ -28,7 +28,7 @@ const items = [
     author: {
       firstName: "Anne",
       lastName: "Holdberg",
-      picture: `http:localhost:4200/user1.jpg`,
+      picture: `https://json-mock-data.herokuapp.com/user1.jpg`,
     },
   },
   {
@@ -42,7 +42,7 @@ const items = [
     author: {
       firstName: "Sarah",
       lastName: "Neesh",
-      picture: `http:localhost:4200/user1.jpg`,
+      picture: `https://json-mock-data.herokuapp.com/user1.jpg`,
     },
   },
   {
@@ -56,7 +56,7 @@ const items = [
     author: {
       firstName: "Rose",
       lastName: "Sasxb",
-      picture: `http:localhost:4200/user1.jpg`,
+      picture: `https://json-mock-data.herokuapp.com/user1.jpg`,
     },
   },
   {
@@ -70,7 +70,7 @@ const items = [
     author: {
       firstName: "Lanny",
       lastName: "Hash",
-      picture: `http:localhost:4200/user2.jpg`,
+      picture: `https://json-mock-data.herokuapp.com/user2.jpg`,
     },
   },
   {
@@ -84,7 +84,7 @@ const items = [
     author: {
       firstName: "Darek",
       lastName: "Mainswo",
-      picture: `http:localhost:4200/user2.jpg`,
+      picture: `https://json-mock-data.herokuapp.com/user2.jpg`,
     },
   },
   {
@@ -98,7 +98,7 @@ const items = [
     author: {
       firstName: "Dunno",
       lastName: "Wy",
-      picture: `http:localhost:4200/user2.jpg`,
+      picture: `https://json-mock-data.herokuapp.com/user2.jpg`,
     },
   },
   {
@@ -113,7 +113,7 @@ const items = [
     author: {
       firstName: "Criss",
       lastName: "Iblogn",
-      picture: `http:localhost:4200/user1.jpg`,
+      picture: `https://json-mock-data.herokuapp.com/user1.jpg`,
     },
   },
   {
@@ -128,7 +128,7 @@ const items = [
     author: {
       firstName: "Nicolas",
       lastName: "Whaldou",
-      picture: `http:localhost:4200/user2.jpg`,
+      picture: `https://json-mock-data.herokuapp.com/user2.jpg`,
     },
   },
   {
@@ -142,7 +142,7 @@ const items = [
     author: {
       firstName: "Cirito",
       lastName: "Hashimota",
-      picture: `http:localhost:4200/user2.jpg`,
+      picture: `https://json-mock-data.herokuapp.com/user2.jpg`,
     },
   },
 ];
