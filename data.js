@@ -7,6 +7,7 @@ const items = [
     id: uuidv4(),
     title: "Art",
     description: "What a beautiful art of Mona Lisa",
+    picture: "https://json-mock-data.herokuapp.com/monaLisa.png",
     price: {
       usd: 210,
       crypto: 1,
@@ -20,7 +21,9 @@ const items = [
   {
     id: uuidv4(),
     title: "Pixel art",
-    description: "John Wick pixel art",
+    description:
+      "The Knight on horse riding riding riding, the knight in armor ofc, riding riding",
+    picture: "https://json-mock-data.herokuapp.com/space.png",
     price: {
       usd: 110,
       crypto: 0.5,
@@ -34,7 +37,8 @@ const items = [
   {
     id: uuidv4(),
     title: "Kitty",
-    description: "3D model of maine coon cat",
+    description: "Cat and boxes",
+    picture: "https://json-mock-data.herokuapp.com/cat.png",
     price: {
       usd: 110,
       crypto: 0.5,
@@ -47,8 +51,9 @@ const items = [
   },
   {
     id: uuidv4(),
-    title: "Wooden sword",
-    description: "Good sword made of wood",
+    title: "Wooden",
+    description: "Good wooden art",
+    picture: "https://json-mock-data.herokuapp.com/wooden.jpg",
     price: {
       usd: 410,
       crypto: 2,
@@ -63,6 +68,7 @@ const items = [
     id: uuidv4(),
     title: "Profile picture",
     description: "Profile picture in cyberpunk style",
+    picture: "https://json-mock-data.herokuapp.com/cyberpunk.png",
     price: {
       usd: 310,
       crypto: 1.5,
@@ -76,7 +82,8 @@ const items = [
   {
     id: uuidv4(),
     title: "Shoes",
-    description: "Real shoes",
+    description: "Real shoes. Joke.  Just shoes design ",
+    picture: "https://json-mock-data.herokuapp.com/shoes.png",
     price: {
       usd: 150,
       crypto: 0.7,
@@ -91,6 +98,7 @@ const items = [
     id: uuidv4(),
     title: "Minecraft seeds",
     description: "Unique seeds that make your journey really exciting",
+    picture: "https://json-mock-data.herokuapp.com/minecraft.png",
     price: {
       usd: 50,
       crypto: 0.3,
@@ -118,9 +126,9 @@ const items = [
   },
   {
     id: uuidv4(),
-    title: "Divas in the Space",
+    title: "Cosmonaut logo",
     description:
-      "Beautiful Divas in the Space. Art. Softcore style. We are all made from stardust. Be shiny. ",
+      "Beautiful in the Space. Art. We are all made from stardust. Be shiny. ",
     price: {
       usd: 270,
       crypto: 1.5,
