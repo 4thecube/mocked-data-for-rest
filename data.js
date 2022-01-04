@@ -1,11 +1,10 @@
-const express = require("express");
-
 const { v4: uuidv4 } = require("uuid");
 
 const items = {
   author: {
     firstName: "John",
     lastName: "Doe",
+    picture: `https://json-mock-data.herokuapp.com/user2.jpg`,
   },
   products: [
     {
